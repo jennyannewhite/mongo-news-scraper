@@ -1,0 +1,19 @@
+div.content-area {}
+
+;
+div.article-box-header {
+    background-color: teal;
+}
+
+;
+div.article-content {
+    color: black;
+}
+
+;
+button.add-comment {}
+
+;
+button.delete-article {}
+
+;
